@@ -15,12 +15,12 @@
   <img src="https://user-images.githubusercontent.com/69761595/170620146-7e353227-2a38-4b01-8402-91bff8c28fd9.png" width="400px"/> 
  </div>
 
-💻 Projeto
+# 💻 Projeto
  
 Desenvolver uma plataforma web com design responsivo para listar o nome, habilidade e tipo de dez pokémons.Os dados foram alimentados com o uso da API REST https://pokeapi.co/
  
 
-Funcionalildades
+# Funcionalildades
 
 ✔️ Listagem de pokémons: Listando os dez primeiros pokémons utilizando a API REST.
 <br>
@@ -33,7 +33,7 @@ Funcionalildades
 ✔️ Resultado de pesquisa em um arquivo .CSV: O resultado da pesquisa realizada pelo usuário é exportado para um arquivo .csv.
 <br>
 
-🚀 Tecnologias
+# 🚀 Tecnologias
 
 - JavaScript
 - HTML
@@ -42,10 +42,9 @@ Funcionalildades
 - Git
 - GitHub
 
-📁 Instalação e execução
+# 📁 Repositório: 
 
-Faça o clone do repositório e acesse o diretório.
+https://github.com/AlanMacedo/pokedexDesafio-c6
 
-![Screenshot from 2022-05-27 10-42-36](https://user-images.githubusercontent.com/69761595/170711322-3e8005ce-ad1f-4d4c-9d45-96fe3ea6c09e.png)
-
-
+# :cd: Como executar:
+Para executar basta abrir o arquivo ou acessar a página [POKEDEX](https://alanmacedo.github.io/pokedexDesafio-c6/)
