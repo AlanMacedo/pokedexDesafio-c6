@@ -80,7 +80,7 @@ function filterList() {
     var nodeNames = document.querySelectorAll(".card-title");
     var nodeAbilities = document.querySelectorAll(".ability");
     var nodeTypes = document.querySelectorAll(".type");
-    csv.push("NOME | HABILIDADE | TIPO");
+    csv.push("NOME,HABILIDADE,TIPO");
   
     for (let i = 0; i < rows.length; i++) {
       const name = nodeNames[i].innerHTML;
@@ -88,12 +88,13 @@ function filterList() {
       const type = nodeTypes[i].innerHTML;
   
       if (rows[i].style.display !== "none") {
-        var arr = name.concat(" | ", ability, " | ", type);
+        var arr = [name,ability,type].join(",")
         csv.push(arr);
       }
     }
-  
-    csv.length == 0 ? csv.push("Ops.. não encontrei nada!") : "";
+
+    csv.length <= 1 ? csv.push("Ops.. não encontrei nada!") : "";
   
     downloadCSV(csv.join("\n"), filename);
+    
   }
