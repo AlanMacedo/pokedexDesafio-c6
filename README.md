@@ -46,4 +46,6 @@ Funcionalildades
 
 Faça o clone do repositório e acesse o diretório.
 
+![Screenshot from 2022-05-27 10-42-36](https://user-images.githubusercontent.com/69761595/170711322-3e8005ce-ad1f-4d4c-9d45-96fe3ea6c09e.png)
+
 
