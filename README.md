@@ -2,7 +2,7 @@
 
 
  <div align="center">
-  <img src="https://user-images.githubusercontent.com/69761595/170619087-c51bfa02-e413-40d0-81fa-20f242156935.png" width="200px"/> 
+  <img src="https://user-images.githubusercontent.com/69761595/170619087-c51bfa02-e413-40d0-81fa-20f242156935.png" width="100px"/> 
  </div>
 
 <h1 align="center">Listagem e pesquisa de pokémons</h1>
